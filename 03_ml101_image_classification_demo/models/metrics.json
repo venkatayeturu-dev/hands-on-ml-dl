@@ -1,0 +1,11 @@
+{
+  "model": "SimpleCNN",
+  "dataset": "CIFAR-10 filtered to cat/dog",
+  "epochs": 1,
+  "batch_size": 64,
+  "learning_rate": 0.001,
+  "train_images": 2000,
+  "test_images": 400,
+  "best_test_accuracy": 0.5325,
+  "device": "cpu"
+}

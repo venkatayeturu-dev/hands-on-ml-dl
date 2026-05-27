@@ -1,0 +1,38 @@
+# Run examples for all 5 use cases
+# Run from repo root: c:\ML-Ops\ml-dl-models
+# Activate environment first:
+#   .\env\Scripts\Activate.ps1
+
+
+# 1) 00_ml101_basic  (Random Forest - House Price)
+cd c:\ML-Ops\ml-dl-models\00_ml101_basic
+python train.py
+python predict.py --zipcode 94102 --house_sqft 1500 --lot_sqft 4000 --num_beds 3 --num_baths 2.0 --property_type 1
+
+
+# 2) 01_ml101_classification_demo  (Logistic Regression - Spam)
+cd c:\ML-Ops\ml-dl-models\01_ml101_classification_demo
+python generate_data.py
+python train.py
+python predict.py --num_links 3 --num_exclamations 4 --has_urgent_word 1 --uppercase_ratio 0.6 --message_length 80
+
+
+# 3) 02_ml101_pytorch_house_price  (PyTorch MLP - House Price)
+cd c:\ML-Ops\ml-dl-models\02_ml101_pytorch_house_price
+python train.py
+python predict.py --zipcode 94102 --house_sqft 1500 --lot_sqft 4000 --num_beds 3 --num_baths 2.0 --property_type 1
+
+
+# 4) 03_ml101_image_classification_demo  (CNN - Cat vs Dog)
+cd c:\ML-Ops\ml-dl-models\03_ml101_image_classification_demo
+python train.py --epochs 1 --max_train_samples 2000 --max_test_samples 400
+python predict.py --image_path samples/sample_cat.png
+python predict.py --image_path samples/sample_dog.png
+
+
+# 5) 04_ml10_image_defect_detection_demo  (CNN - Defect Detection, synthetic)
+cd c:\ML-Ops\ml-dl-models\04_ml10_image_defect_detection_demo
+python generate_data.py --recreate --train_per_class 120 --val_per_class 40 --test_per_class 40
+python train.py --epochs 1 --batch_size 32
+python predict.py --image_path data/test/good/good_0000.png
+python predict.py --image_path data/test/defect/defect_0000.png

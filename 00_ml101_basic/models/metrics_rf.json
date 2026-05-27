@@ -1,0 +1,16 @@
+{
+  "model": "RandomForestRegressor",
+  "rmse_usd": 100031,
+  "r2_score": 0.9882,
+  "mae_usd": 66180,
+  "train_rows": 800,
+  "test_rows": 200,
+  "feature_cols": [
+    "market_rate_per_sqft",
+    "house_sqft",
+    "lot_sqft",
+    "num_beds",
+    "num_baths",
+    "property_type"
+  ]
+}
