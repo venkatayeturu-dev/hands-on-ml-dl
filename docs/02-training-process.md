@@ -14,7 +14,7 @@ A teaching guide for students. The structure is intentional:
 Whether you build a Random Forest or a giant neural network, the outer shape of the workflow is identical:
 
 ```mermaid
-flowchart LR
+flowchart TB
     A[1 Frame] --> B[2 Data]
     B --> C[3 Split]
     C --> D[4 Train]
@@ -217,7 +217,7 @@ This is the section students usually find most confusing. Here it is in one tabl
 ## 5. Side-by-Side Diagram of Step 4 ("Train")
 
 ```mermaid
-flowchart TB
+flowchart LR
     subgraph ML["Classic ML - Train"]
         M1["Prepare features X, y"] --> M2["model.fit(X, y) - one call"]
         M2 --> M3["Algorithm internally - solve equations OR greedily build trees"]
@@ -294,3 +294,22 @@ flowchart TB
 - **Deep Learning** = a loop of *epochs × batches × (forward → loss → backward → step)*. The network learns features for you.
 - **Epoch** is a DL-only word. The ML analog is "one call to fit / one tree built / one boosting round".
 - **Loss function** exists in both, but DL makes it explicit and minimizes it gradient by gradient. ML hides it inside the algorithm.
+
+
+---
+
+## 5. Quick Reference — Key DL Terms
+
+> *These are the most common points of confusion for students coming from a Classic ML background.*
+
+### Epochs
+A deep learning concept only. One epoch = one full pass through all training data. Traditional ML (Random Forest, SVM) does not use epochs.
+
+### Batches
+Also deep learning specific. Batch size = how many samples processed at once before updating weights. Default is usually 32. With 8,000 images and batch size 32, one epoch = 250 batches.
+
+### Loss Function vs Weights
+Loss function measures how wrong the model is. Weights are the numbers inside the model that get adjusted to reduce the loss. They work together: every batch, the loss tells the optimizer which way to nudge the weights.
+
+### ML vs DL Training — One-Liner
+The high-level process is the same for both (prepare data, split, train, evaluate, retrain). The difference: ML requires manual feature engineering while DL learns features automatically from raw data.

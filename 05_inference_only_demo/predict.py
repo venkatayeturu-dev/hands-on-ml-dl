@@ -24,7 +24,26 @@ def load_model():
     No GPU required — runs on CPU in under a second.
     """
     print("Loading pre-trained model (first run downloads ~260 MB)...")
+
+    # Model: distilbert-base-uncased-finetuned-sst-2-english
+    # Source: https://huggingface.co/distilbert-base-uncased-finetuned-sst-2-english
+    #
+    # How it works:
+    #   - pipeline("sentiment-analysis") is a shortcut that auto-selects this model.
+    #   - On first run, HuggingFace downloads the model weights (~260 MB) from their servers.
+    #   - Files are cached locally at: ~/.cache/huggingface/hub/
+    #   - Subsequent runs load instantly from cache (no internet needed).
+    #
+    # What the model is:
+    #   - DistilBERT = a smaller, faster version of BERT (a Transformer model).
+    #   - Fine-tuned on SST-2 (Stanford Sentiment Treebank) for binary sentiment.
+    #   - Outputs: POSITIVE or NEGATIVE + confidence score.
+    #
+    # This is the same pattern you'll use in Agentic AI:
+    #   - Someone else trained the model (HuggingFace / researchers).
+    #   - You just download and call it.
     classifier = pipeline("sentiment-analysis")
+
     print("Model ready.\n")
     return classifier
 
