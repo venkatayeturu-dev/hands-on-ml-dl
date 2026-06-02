@@ -8,7 +8,7 @@ Examples:
 
 import argparse
 import json
-import pickle
+import pickle  # SECURITY: Only load pickle files you created yourself – pickle can execute arbitrary code.
 from pathlib import Path
 
 import numpy as np

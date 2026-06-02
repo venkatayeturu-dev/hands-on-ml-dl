@@ -56,6 +56,7 @@ def load_model_and_meta():
     if not MODEL_FILE.exists():
         raise FileNotFoundError("Model not found. Run: python train.py")
 
+    # SECURITY: weights_only=False can execute arbitrary code – only load trusted model files.
     checkpoint = torch.load(MODEL_FILE, map_location="cpu", weights_only=False)
 
     model = DefectCNN()

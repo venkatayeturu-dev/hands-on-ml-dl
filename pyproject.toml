@@ -1,0 +1,7 @@
+[project]
+name = "hands-on-ml-dl"
+version = "1.0.0"
+description = "Hands-on ML & Deep Learning prerequisite primer"
+requires-python = ">=3.11"
+readme = "readme.md"
+license = {text = "MIT"}

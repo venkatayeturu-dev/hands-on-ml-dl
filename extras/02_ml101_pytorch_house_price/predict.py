@@ -18,7 +18,7 @@ Output:
     Predicted price in USD
 """
 
-import argparse, pickle, json
+import argparse, pickle, json  # SECURITY: pickle/torch.load can execute arbitrary code – only load trusted model files.
 import numpy as np
 import torch
 import torch.nn as nn

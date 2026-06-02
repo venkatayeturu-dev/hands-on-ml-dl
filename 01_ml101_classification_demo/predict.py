@@ -7,7 +7,7 @@ Examples:
 """
 
 import argparse
-import pickle
+import pickle  # SECURITY: Only load pickle files you created yourself – pickle can execute arbitrary code.
 from pathlib import Path
 
 import pandas as pd
