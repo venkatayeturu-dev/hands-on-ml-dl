@@ -1,0 +1,21 @@
+{
+  "model": "RandomForestRegressor",
+  "rmse_usd": 562,
+  "r2_score": 0.999,
+  "mae_usd": 335,
+  "train_rows": 169,
+  "test_rows": 43,
+  "feature_cols": [
+    "date",
+    "make",
+    "model",
+    "type",
+    "condition",
+    "mileage",
+    "list_price",
+    "days_on_lot",
+    "region",
+    "fuel_type",
+    "year"
+  ]
+}

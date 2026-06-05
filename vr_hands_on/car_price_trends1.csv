@@ -1,0 +1,213 @@
+date,make,model,type,condition,mileage,list_price,sale_price,days_on_lot,region,fuel_type,year
+20230105,Toyota,Camry,Sedan,New,0,28500,27800,12,West,Gasoline,2023
+20230108,Ford,F150,Truck,New,0,42000,41200,8,South,Gasoline,2023
+20230110,Honda,Civic,Sedan,Used,32000,18500,17900,20,Northeast,Gasoline,2021
+20230112,Tesla,Model 3,Electric,New,0,42000,41500,5,West,Electric,2023
+20230115,Chevrolet,Suburban,SUV,New,0,58000,57200,18,Midwest,Gasoline,2023
+20230118,BMW,3 Series,Sedan,New,0,46000,44800,22,Northeast,Gasoline,2023
+20230120,Toyota,RAV4,SUV,New,0,32000,31500,10,West,Gasoline,2023
+20230122,Ford,Mustang,Sports,Used,15000,34000,33200,30,South,Gasoline,2022
+20230125,Hyundai,Sonata,Sedan,Used,28000,22000,21200,15,Midwest,Gasoline,2022
+20230128,Kia,Telluride,SUV,New,0,37000,36400,9,South,Gasoline,2023
+20230202,Toyota,Camry,Sedan,New,0,28500,27600,14,West,Gasoline,2023
+20230205,Ford,F-150,Truck,New,0,42000,41000,7,South,Gasoline,2023
+20230208,Honda,CR-V,SUV,New,0,33000,32400,11,Northeast,Gasoline,2023
+20230210,Tesla,Model Y,Electric,New,0,50000,49200,6,West,Electric,2023
+20230214,Chevrolet,Silverado,Truck,New,0,44000,43100,9,Midwest,Gasoline,2023
+20230216,BMW,iX,Electric,New,0,87000,85500,25,Northeast,Electric,2023
+20230218,Toyota,Prius,Sedan,New,0,29000,28600,8,West,Hybrid,2023
+20230220,Ford,Bronco,SUV,New,0,38500,37800,13,South,Gasoline,2023
+20230222,Kia,EV6,Electric,New,0,43000,42300,7,West,Electric,2023
+20230225,Honda,Ridgeline,Truck,New,0,40000,39200,12,Midwest,Gasoline,2023
+20230303,Toyota,Camry,Sedan,New,0,28800,28100,11,West,Gasoline,2023
+20230306,Ford,F-150,Truck,New,0,42500,41500,8,South,Gasoline,2023
+20230309,Honda,Civic,Sedan,Used,45000,16500,15900,25,Northeast,Gasoline,2020
+20230312,Tesla,Model 3,Electric,New,0,42000,41800,4,West,Electric,2023
+20230315,Chevrolet,Suburban,SUV,New,0,58500,57600,16,Midwest,Gasoline,2023
+20230318,BMW,3 Series,Sedan,Used,20000,38000,36800,28,Northeast,Gasoline,2022
+20230320,Toyota,RAV4,SUV,New,0,32500,31900,9,West,Gasoline,2023
+20230324,Hyundai,Tucson,SUV,New,0,31000,30400,10,South,Gasoline,2023
+20230327,Kia,Telluride,SUV,New,0,37500,36800,8,South,Gasoline,2023
+20230330,Porsche,911,Sports,New,0,96000,95200,35,Northeast,Gasoline,2023
+20230404,Toyota,Camry,Sedan,New,0,28800,27900,13,West,Gasoline,2023
+20230407,Ford,F-150,Truck,New,0,43000,42000,7,South,Gasoline,2023
+20230410,Honda,CR-V,SUV,Used,18000,29000,28200,17,Northeast,Gasoline,2022
+20230413,Tesla,Model Y,Electric,New,0,49500,48800,5,West,Electric,2023
+20230417,Chevrolet,Silverado,Truck,New,0,44500,43400,10,Midwest,Gasoline,2023
+20230420,BMW,iX,Electric,New,0,87000,85000,28,Northeast,Electric,2023
+20230422,Toyota,Prius,Sedan,New,0,29500,29000,7,West,Hybrid,2023
+20230425,Ford,Bronco,SUV,New,0,39000,38100,14,South,Gasoline,2023
+20230428,Kia,EV6,Electric,New,0,43500,42700,6,West,Electric,2023
+20230502,Honda,Ridgeline,Truck,Used,22000,34000,33100,19,Midwest,Gasoline,2022
+20230505,Toyota,Camry,Sedan,New,0,29000,28200,12,West,Gasoline,2023
+20230508,Ford,F-150,Truck,New,0,43000,42100,8,South,Gasoline,2023
+20230511,Tesla,Model 3,Electric,New,0,41000,40500,4,West,Electric,2023
+20230515,Chevrolet,Suburban,SUV,New,0,59000,58100,15,Midwest,Gasoline,2023
+20230518,BMW,3 Series,Sedan,New,0,46500,45200,20,Northeast,Gasoline,2023
+20230522,Toyota,RAV4,SUV,New,0,32500,31800,10,West,Gasoline,2023
+20230525,Hyundai,Sonata,Sedan,New,0,27500,26900,11,Midwest,Gasoline,2023
+20230528,Kia,Telluride,SUV,New,0,38000,37200,9,South,Gasoline,2023
+20230602,Toyota,Camry,Sedan,New,0,29000,28100,13,West,Gasoline,2023
+20230606,Ford,F-150,Truck,New,0,43500,42400,7,South,Gasoline,2023
+20230609,Honda,Civic,Sedan,New,0,25000,24400,10,Northeast,Gasoline,2023
+20230612,Tesla,Model Y,Electric,New,0,48000,47300,5,West,Electric,2023
+20230616,Chevrolet,Silverado,Truck,New,0,45000,43900,9,Midwest,Gasoline,2023
+20230620,BMW,iX,Electric,New,0,86500,84800,24,Northeast,Electric,2023
+20230623,Toyota,Prius,Sedan,New,0,29500,28900,8,West,Hybrid,2023
+20230626,Ford,Bronco,SUV,New,0,39000,38200,12,South,Gasoline,2023
+20230629,Porsche,911,Sports,Used,8000,88000,86500,40,Northeast,Gasoline,2022
+20230704,Honda,CR-V,SUV,New,0,33500,32800,11,Northeast,Gasoline,2023
+20230707,Toyota,Camry,Sedan,New,0,29200,28300,12,West,Gasoline,2023
+20230710,Ford,F-150,Truck,New,0,44000,42800,8,South,Gasoline,2023
+20230713,Tesla,Model 3,Electric,New,0,40500,40000,4,West,Electric,2023
+20230717,Chevrolet,Suburban,SUV,New,0,59500,58500,14,Midwest,Gasoline,2023
+20230720,BMW,3 Series,Sedan,Used,12000,42000,40600,26,Northeast,Gasoline,2023
+20230724,Toyota,RAV4,SUV,New,0,33000,32200,10,West,Gasoline,2023
+20230727,Hyundai,Tucson,SUV,New,0,31500,30800,11,South,Gasoline,2023
+20230730,Kia,EV6,Electric,New,0,44000,43200,6,West,Electric,2023
+20230803,Honda,Ridgeline,Truck,New,0,40500,39600,12,Midwest,Gasoline,2023
+20230807,Toyota,Camry,Sedan,New,0,29500,28600,11,West,Gasoline,2023
+20230810,Ford,F-150,Truck,New,0,44000,43000,7,South,Gasoline,2023
+20230814,Tesla,Model Y,Electric,New,0,47500,46900,5,West,Electric,2023
+20230817,Chevrolet,Silverado,Truck,New,0,45500,44400,9,Midwest,Gasoline,2023
+20230821,BMW,iX,Electric,New,0,86000,84200,26,Northeast,Electric,2023
+20230824,Toyota,Prius,Sedan,New,0,30000,29400,7,West,Hybrid,2023
+20230828,Ford,Bronco,SUV,New,0,39500,38700,13,South,Gasoline,2023
+20230901,Kia,Telluride,SUV,New,0,38500,37700,8,South,Gasoline,2023
+20230905,Honda,Civic,Sedan,Used,38000,17500,16800,22,Northeast,Gasoline,2021
+20230908,Toyota,Camry,Sedan,New,0,29500,28500,13,West,Gasoline,2023
+20230912,Ford,F-150,Truck,New,0,44500,43300,8,South,Gasoline,2023
+20230915,Tesla,Model 3,Electric,New,0,40000,39600,4,West,Electric,2023
+20230919,Chevrolet,Suburban,SUV,New,0,60000,58900,15,Midwest,Gasoline,2023
+20230922,BMW,3 Series,Sedan,New,0,47000,45700,21,Northeast,Gasoline,2023
+20230926,Toyota,RAV4,SUV,New,0,33000,32300,10,West,Gasoline,2023
+20230929,Hyundai,Sonata,Sedan,New,0,28000,27300,11,Midwest,Gasoline,2024
+20231003,Porsche,911,Sports,New,0,97000,96100,32,Northeast,Gasoline,2024
+20231006,Honda,CR-V,SUV,New,0,34000,33200,11,Northeast,Gasoline,2024
+20231009,Toyota,Camry,Sedan,New,0,29800,28900,12,West,Gasoline,2024
+20231012,Ford,F-150,Truck,New,0,45000,43800,8,South,Gasoline,2024
+20231016,Tesla,Model Y,Electric,New,0,47000,46400,5,West,Electric,2024
+20231019,Chevrolet,Silverado,Truck,New,0,46000,44800,9,Midwest,Gasoline,2024
+20231023,BMW,iX,Electric,New,0,88000,86000,27,Northeast,Electric,2024
+20231026,Toyota,Prius,Sedan,New,0,30500,29900,7,West,Hybrid,2024
+20231030,Kia,EV6,Electric,New,0,44500,43600,6,West,Electric,2024
+20231103,Ford,Bronco,SUV,New,0,40000,38900,14,South,Gasoline,2024
+20231107,Toyota,Camry,Sedan,New,0,30000,29000,13,West,Gasoline,2024
+20231110,Ford,F-150,Truck,New,0,45000,43600,8,South,Gasoline,2024
+20231114,Honda,Civic,Sedan,New,0,25500,24800,10,Northeast,Gasoline,2024
+20231117,Tesla,Model 3,Electric,New,0,39500,39000,4,West,Electric,2024
+20231121,Chevrolet,Suburban,SUV,New,0,60500,59400,15,Midwest,Gasoline,2024
+20231125,BMW,3 Series,Sedan,Used,9000,44000,42400,24,Northeast,Gasoline,2023
+20231128,Toyota,RAV4,SUV,New,0,33500,32700,9,West,Gasoline,2024
+20231202,Hyundai,Tucson,SUV,New,0,32000,31200,11,South,Gasoline,2024
+20231206,Kia,Telluride,SUV,New,0,39000,38000,9,South,Gasoline,2024
+20231209,Honda,Ridgeline,Truck,New,0,41000,40000,12,Midwest,Gasoline,2024
+20231212,Toyota,Camry,Sedan,New,0,30000,28800,14,West,Gasoline,2024
+20231216,Ford,F-150,Truck,New,0,45500,44200,8,South,Gasoline,2024
+20231219,Tesla,Model Y,Electric,New,0,46500,45900,5,West,Electric,2024
+20231222,Porsche,911,Sports,New,0,98000,96800,30,Northeast,Gasoline,2024
+20231226,BMW,iX,Electric,New,0,88000,85800,28,Northeast,Electric,2024
+20231229,Toyota,Prius,Sedan,New,0,30500,30000,7,West,Hybrid,2024
+20240104,Toyota,Camry,Sedan,New,0,30500,29600,12,West,Gasoline,2024
+20240107,Ford,F-150,Truck,New,0,46000,44700,8,South,Gasoline,2024
+20240110,Honda,CR-V,SUV,New,0,34500,33700,10,Northeast,Gasoline,2024
+20240114,Tesla,Model 3,Electric,New,0,39000,38600,4,West,Electric,2024
+20240117,Chevrolet,Silverado,Truck,New,0,46500,45300,9,Midwest,Gasoline,2024
+20240121,BMW,3 Series,Sedan,New,0,47500,46200,20,Northeast,Gasoline,2024
+20240124,Toyota,RAV4,SUV,New,0,34000,33200,10,West,Gasoline,2024
+20240128,Hyundai,Sonata,Sedan,New,0,28500,27800,11,Midwest,Gasoline,2024
+20240131,Kia,EV6,Electric,New,0,45000,44200,6,West,Electric,2024
+20240204,Ford,Bronco,SUV,New,0,40500,39500,13,South,Gasoline,2024
+20240207,Toyota,Camry,Sedan,New,0,30500,29700,12,West,Gasoline,2024
+20240210,Ford,F-150,Truck,New,0,46000,44900,7,South,Gasoline,2024
+20240214,Tesla,Model Y,Electric,New,0,46000,45400,5,West,Electric,2024
+20240217,Chevrolet,Suburban,SUV,New,0,61000,59900,14,Midwest,Gasoline,2024
+20240221,BMW,iX,Electric,New,0,88500,86400,25,Northeast,Electric,2024
+20240224,Toyota,Prius,Sedan,New,0,31000,30400,8,West,Hybrid,2024
+20240228,Honda,Civic,Sedan,Used,25000,20000,19200,18,Northeast,Gasoline,2022
+20240304,Kia,Telluride,SUV,New,0,39500,38600,8,South,Gasoline,2024
+20240307,Honda,Ridgeline,Truck,New,0,41500,40500,11,Midwest,Gasoline,2024
+20240311,Toyota,Camry,Sedan,New,0,31000,30100,12,West,Gasoline,2024
+20240314,Ford,F-150,Truck,New,0,46500,45300,8,South,Gasoline,2024
+20240318,Tesla,Model 3,Electric,New,0,38500,38100,4,West,Electric,2024
+20240321,Chevrolet,Silverado,Truck,New,0,47000,45800,9,Midwest,Gasoline,2024
+20240325,BMW,3 Series,Sedan,Used,18000,40000,38600,27,Northeast,Gasoline,2023
+20240328,Toyota,RAV4,SUV,New,0,34500,33700,9,West,Gasoline,2024
+20240401,Hyundai,Tucson,SUV,New,0,32500,31700,10,South,Gasoline,2024
+20240405,Porsche,911,Sports,New,0,99000,97800,33,Northeast,Gasoline,2024
+20240408,Honda,CR-V,SUV,New,0,35000,34200,10,Northeast,Gasoline,2024
+20240411,Toyota,Camry,Sedan,New,0,31000,30000,13,West,Gasoline,2024
+20240415,Ford,F-150,Truck,New,0,47000,45700,8,South,Gasoline,2024
+20240418,Tesla,Model Y,Electric,New,0,45500,44900,5,West,Electric,2024
+20240422,Chevrolet,Suburban,SUV,New,0,61500,60400,14,Midwest,Gasoline,2024
+20240425,BMW,iX,Electric,New,0,89000,87000,24,Northeast,Electric,2024
+20240429,Kia,EV6,Electric,New,0,45500,44700,6,West,Electric,2024
+20240503,Toyota,Prius,Sedan,New,0,31500,30900,7,West,Hybrid,2024
+20240506,Ford,Bronco,SUV,New,0,41000,40000,12,South,Gasoline,2024
+20240509,Toyota,Camry,Sedan,New,0,31500,30400,12,West,Gasoline,2024
+20240513,Ford,F-150,Truck,New,0,47000,45900,7,South,Gasoline,2024
+20240516,Honda,Civic,Sedan,New,0,26000,25300,10,Northeast,Gasoline,2024
+20240520,Tesla,Model 3,Electric,New,0,38000,37600,4,West,Electric,2024
+20240523,Chevrolet,Silverado,Truck,New,0,47500,46300,9,Midwest,Gasoline,2024
+20240527,BMW,3 Series,Sedan,New,0,48000,46700,20,Northeast,Gasoline,2024
+20240530,Toyota,RAV4,SUV,New,0,35000,34200,9,West,Gasoline,2024
+20240603,Hyundai,Sonata,Sedan,New,0,29000,28300,11,Midwest,Gasoline,2024
+20240606,Kia,Telluride,SUV,New,0,40000,39100,8,South,Gasoline,2024
+20240610,Honda,Ridgeline,Truck,New,0,42000,41000,11,Midwest,Gasoline,2024
+20240613,Toyota,Camry,Sedan,New,0,31500,30500,12,West,Gasoline,2024
+20240617,Ford,F-150,Truck,New,0,47500,46300,8,South,Gasoline,2024
+20240620,Tesla,Model Y,Electric,New,0,45000,44400,5,West,Electric,2024
+20240624,Chevrolet,Suburban,SUV,New,0,62000,60900,14,Midwest,Gasoline,2024
+20240627,BMW,iX,Electric,New,0,89000,87200,25,Northeast,Electric,2024
+20240701,Porsche,911,Sports,Used,5000,94000,92500,38,Northeast,Gasoline,2024
+20240705,Toyota,Prius,Sedan,New,0,32000,31400,7,West,Hybrid,2024
+20240708,Ford,Bronco,SUV,New,0,41500,40500,12,South,Gasoline,2024
+20240712,Kia,EV6,Electric,New,0,46000,45200,6,West,Electric,2024
+20240715,Toyota,Camry,Sedan,New,0,32000,31000,12,West,Gasoline,2024
+20240718,Ford,F-150,Truck,New,0,48000,46700,7,South,Gasoline,2024
+20240722,Honda,CR-V,SUV,New,0,35500,34700,10,Northeast,Gasoline,2024
+20240725,Tesla,Model 3,Electric,New,0,37500,37200,4,West,Electric,2024
+20240729,Chevrolet,Silverado,Truck,New,0,48000,46800,9,Midwest,Gasoline,2024
+20240802,BMW,3 Series,Sedan,Used,8000,45000,43500,25,Northeast,Gasoline,2024
+20240806,Toyota,RAV4,SUV,New,0,35500,34700,9,West,Gasoline,2024
+20240809,Hyundai,Tucson,SUV,New,0,33000,32200,10,South,Gasoline,2024
+20240813,Honda,Civic,Sedan,Used,42000,18000,17200,24,Northeast,Gasoline,2022
+20240816,Toyota,Camry,Sedan,New,0,32000,31100,12,West,Gasoline,2024
+20240820,Ford,F-150,Truck,New,0,48000,46900,7,South,Gasoline,2024
+20240823,Tesla,Model Y,Electric,New,0,44500,44000,5,West,Electric,2024
+20240827,Chevrolet,Suburban,SUV,New,0,62500,61400,14,Midwest,Gasoline,2024
+20240830,BMW,iX,Electric,New,0,90000,87900,26,Northeast,Electric,2024
+20240903,Kia,Telluride,SUV,New,0,40500,39600,8,South,Gasoline,2024
+20240906,Toyota,Prius,Sedan,New,0,32500,31800,7,West,Hybrid,2024
+20240910,Ford,Bronco,SUV,New,0,42000,41000,12,South,Gasoline,2024
+20240913,Honda,Ridgeline,Truck,New,0,42500,41500,11,Midwest,Gasoline,2024
+20240917,Toyota,Camry,Sedan,New,0,32500,31500,12,West,Gasoline,2024
+20240920,Ford,F-150,Truck,New,0,48500,47300,7,South,Gasoline,2024
+20240924,Tesla,Model 3,Electric,New,0,37000,36700,4,West,Electric,2024
+20240927,Chevrolet,Silverado,Truck,New,0,48500,47300,9,Midwest,Gasoline,2024
+20241001,Porsche,911,Sports,New,0,100000,98800,31,Northeast,Gasoline,2025
+20241004,BMW,3 Series,Sedan,New,0,48500,47200,20,Northeast,Gasoline,2025
+20241008,Toyota,RAV4,SUV,New,0,36000,35200,9,West,Gasoline,2025
+20241011,Hyundai,Sonata,Sedan,New,0,29500,28800,11,Midwest,Gasoline,2025
+20241015,Honda,CR-V,SUV,New,0,36000,35200,10,Northeast,Gasoline,2025
+20241018,Toyota,Camry,Sedan,New,0,33000,32000,12,West,Gasoline,2025
+20241022,Ford,F-150,Truck,New,0,49000,47700,7,South,Gasoline,2025
+20241025,Tesla,Model Y,Electric,New,0,44000,43500,5,West,Electric,2025
+20241029,Chevrolet,Suburban,SUV,New,0,63000,61900,14,Midwest,Gasoline,2025
+20241102,BMW,iX,Electric,New,0,90500,88400,26,Northeast,Electric,2025
+20241106,Kia,EV6,Electric,New,0,46500,45700,6,West,Electric,2025
+20241109,Toyota,Prius,Sedan,New,0,33000,32400,7,West,Hybrid,2025
+20241113,Ford,Bronco,SUV,New,0,42500,41500,12,South,Gasoline,2025
+20241116,Kia,Telluride,SUV,New,0,41000,40100,8,South,Gasoline,2025
+20241120,Toyota,Camry,Sedan,New,0,33000,31900,13,West,Gasoline,2025
+20241123,Ford,F-150,Truck,New,0,49000,47600,8,South,Gasoline,2025
+20241127,Honda,Civic,Sedan,New,0,26500,25700,10,Northeast,Gasoline,2025
+20241130,Tesla,Model 3,Electric,New,0,36500,36200,4,West,Electric,2025
+20241204,Chevrolet,Silverado,Truck,New,0,49000,47700,9,Midwest,Gasoline,2025
+20241207,BMW,3 Series,Sedan,Used,15000,42000,40500,26,Northeast,Gasoline,2024
+20241211,Toyota,RAV4,SUV,New,0,36500,35700,9,West,Gasoline,2025
+20241214,Hyundai,Tucson,SUV,New,0,33500,32700,10,South,Gasoline,2025
+20241218,Honda,Ridgeline,Truck,New,0,43000,42000,11,Midwest,Gasoline,2025
+20241221,Toyota,Camry,Sedan,New,0,33500,32300,13,West,Gasoline,2025
+20241225,Porsche,911,Sports,New,0,101000,99700,29,Northeast,Gasoline,2025
+20241228,Tesla,Model Y,Electric,New,0,43500,43000,5,West,Electric,2025
